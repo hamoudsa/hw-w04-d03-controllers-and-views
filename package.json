@@ -1,0 +1,25 @@
+{
+  "name": "hw-w04-d03-controllers-and-views",
+  "version": "1.0.0",
+  "description": "![angry birds](https://media.giphy.com/media/fKACOQcJ6LnTa/giphy.gif)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-mustache": "^1.0.4",
+    "mustache-express": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamoudsa/hw-w04-d03-controllers-and-views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamoudsa/hw-w04-d03-controllers-and-views/issues"
+  },
+  "homepage": "https://github.com/hamoudsa/hw-w04-d03-controllers-and-views#readme"
+}
